@@ -17,6 +17,11 @@ This repository includes SQL queries for managing and querying the database, all
   - Calculating ticket-related statistics and income.
   - Analyzing train capacities and counts.
 
+## ER(Entity-Relationship) Diagram : 
+
+![Screenshot 2023-12-21 011818](https://github.com/user-attachments/assets/c086c9b3-a42d-4c46-93e2-5cbd648a7b82)
+
+
 ## Prerequisites
 
 - MySQL database server installed and running.
